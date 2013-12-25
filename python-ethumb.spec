@@ -2,7 +2,7 @@ Summary:	Python bindings for Ethumb library
 Summary(pl.UTF-8):	Wiązania Pythona do biblioteki Ethumb
 Name:		python-ethumb
 Version:	1.7.0
-Release:	11
+Release:	12
 License:	LGPL v2.1+
 Group:		Development/Languages/Python
 Source0:	http://download.enlightenment.org/releases/BINDINGS/python/%{name}-%{version}.tar.bz2
